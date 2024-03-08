@@ -32,8 +32,9 @@ h1
     text-shadow: 5px 2px blue;
     font-size: 400%;
     padding-left: 20%;
-margin-top: 10%;}
-
+margin-top: 5%;}
+.Tryllekunstneren
+{margin-top: -3%;}
 
 .kanin
 
@@ -52,6 +53,10 @@ grid-template-columns: repeat(3, 1fr);;}
 .due
 {z-index: -2;
 margin-top: -10%;}
+
+
+.fixed
+{position: fixed;}
 
 
 .show
@@ -86,6 +91,10 @@ height: 350px;
 border-radius: 0%;
 transform: rotate(0deg);
 margin-top: 5%;}
+
+.Tryllekunstneren
+{margin-top: -5%;}
+
 
 
 .anders-tørkle
