@@ -83,8 +83,11 @@ transform: rotate(0deg);}
 .andini
 {z-index: 0;}
 
-.show
 
+h1
+{margin-right: 20%;}
+
+.show
 {margin-top: none;
 z-index: 0;
 height: 350px;
@@ -93,7 +96,8 @@ transform: rotate(0deg);
 margin-top: 5%;}
 
 .Tryllekunstneren
-{margin-top: -5%;}
+{margin-top: -5%;
+margin-right: 20%;}
 
 
 
